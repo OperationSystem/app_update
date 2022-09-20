@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Global>
     <!--鼠标右键选中需要下载的文件，右键选择复制链接就可以看见具体的下载链接-->
-  <main_app_version version="7.0.0.8e264947" name="Project-2022.09.07.exe" downloadUrl="https://github.com/OperationSystem/app_update/releases/download/Project/Project-2022.09.07.exe"/>
+  <main_app_version version="7.0.0.8e264947" build_version="1" name="Project-2022.09.07.exe" downloadUrl="https://github.com/OperationSystem/app_update/releases/download/Project/Project-2022.09.07.exe"/>
   <main_app_version version="1.0.4.3" name="AEnvironment-1.0.4.3.exe" downloadUrl="https://github.com/OperationSystem/app_update/releases/download/AEnv/AEnvironment-1.0.4.3.exe"/>
 </Global>
