@@ -1,7 +1,0 @@
-*.dcu
-*.dll
-*.dproj.local
-*.exe
-*.identcache
-buildtag.inc
-setup-*.bin
